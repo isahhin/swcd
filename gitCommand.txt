@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/isahhin/swcd.git
+git config --global user.name "name"
+git config --global user.email "email"
+git add readme.txt
+git push -u origin master
