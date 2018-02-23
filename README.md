@@ -6,7 +6,7 @@ This study presents an unsupervised algorithm, called SWCD, on moving object seg
 * **Şahin Işık** - *Corresponding Author* - [Şahin Işık](http://ceng.ogu.edu.tr/Sayfa/Index/32/bolum-personeli) - *Email* - isahhin@gmail.com
 * **Kemal Özkan**   [Kemal Özkan](http://ceng.ogu.edu.tr/Sayfa/Index/32/bolum-personeli) - *Email* - kozkan@ogu.edu.tr
 * **Serkan Günal** [Serkan Günal Işık](https://akademik.anadolu.edu.tr/serkangunal) - *Email* - serkangunal@anadolu.edu.tr 
-* **Ömer Nezih Gerek Işık** [Ömer Nezih Gerek](https://akademik.anadolu.edu.tr/ongerek) - *Email* - ongerek@gmail.com
+* **Ömer Nezih Gerek** [Ömer Nezih Gerek](https://akademik.anadolu.edu.tr/ongerek) - *Email* - ongerek@gmail.com
 
 
 ## Code
