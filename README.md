@@ -1,7 +1,7 @@
 # SWCD : A sliding window and self-regulated learning based background updating method for change detection in videos
 This study presents an unsupervised algorithm, called SWCD, on moving object segmentation in videos. 
 
-
+![alt text](https://github.com/isahhin/swcd/blob/master/contents/swcd2.PNG)
 
 
 ## Code
