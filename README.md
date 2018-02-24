@@ -12,7 +12,7 @@ The results are coming.
 
 ## License
 
-Free for research purposes.
+Free only for research purposes.
 
 ## Contact
 
