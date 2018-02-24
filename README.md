@@ -3,13 +3,13 @@ This study presents an unsupervised algorithm, called SWCD, on moving object seg
 
 ![alt text](https://github.com/isahhin/swcd/blob/master/contents/swcd2.PNG)
 
-## Code
-The code is coming.
 
 ## Visual Video
 
+[![Library](https://img.youtube.com/vi/aPv2gEA8Q8A/0.jpg)](https://www.youtube.com/watch?v=aPv2gEA8Q8A)
 
-
+## Code
+The code is coming.
 
 ## Results
 
