@@ -9,9 +9,6 @@ The code is coming.
 ## Visual Video
 
 
-<iframe width="854" height="480" src="https://www.youtube.com/watch?v=wCAHoesL384" frameborder="0" allowfullscreen></iframe>
-
-
 ## Results
 
 The results are coming.
