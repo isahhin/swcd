@@ -6,7 +6,7 @@ This study presents an unsupervised algorithm, called SWCD, on moving object seg
 
 ## Visual Video
 
-[![Library](https://img.youtube.com/vi/aPv2gEA8Q8A/0.jpg)](https://www.youtube.com/watch?v=aPv2gEA8Q8A)
+embed_url("https://www.youtube.com/watch?v=aPv2gEA8Q8A")
 
 ## Code
 The code is coming.
