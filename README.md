@@ -22,8 +22,10 @@ The results are coming.
 
 Free only for research purposes, for commercial use, please contact to corresponding author.
 
-##Cite
+## Cite
+
 Işık, Şahin, Kemal Özkan, Serkan Günal, and Ömer Nezih Gerek. "SWCD: a sliding window and self-regulated learning-based background updating method for change detection in videos." Journal of Electronic Imaging 27, no. 2 (2018): 023002.
+https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-27/issue-2/023002/SWCD--a-sliding-window-and-self-regulated-learning-based/10.1117/1.JEI.27.2.023002.short?SSO=1
 
 ## Contact
 
