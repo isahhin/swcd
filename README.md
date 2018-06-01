@@ -16,7 +16,7 @@ The code is coming.
 
 ## Results
 
-The results are coming.
+The best results obtained with optimal parameters are avaliable in the website of http://changedetection.net/.
 
 ## License
 
