@@ -1,17 +1,19 @@
 %========================================================================================================================
-% Python code for SWCD 2018 paper
+% Matlab code for SWCD 2018 paper
 % Copyright: Sahin Isik, 2018
 %
 % link: https://github.com/isahhin/swcd
-% It is restricted to use for personal and scientific research purpose only
+% It is restricted to use for personal, educational scientific research purpose only
+# for commercial use please contact author
 % No Warranty
 %       (1) "As-Is". Unless otherwise listed in this agreement, this SOFTWARE PRODUCT is provided "as is," with all faults, defects, bugs, and errors.
 %       (2 )No Warranty. Unless otherwise listed in this agreement.
-% Please cite the following paper when used this code:
-%   1.  S. Isik, K. Ozkan, S. Gunal, Omer N. Gerek, 
-%   "SWCD: A sliding window and self-regulated learning based background updating method for change detection in videos", 
-%   Journal Pattern Recognition, 2018
-%========================================================================================================================
+# Please cite the following paper when used this code:
+#   1.  Işık, Şahin, Kemal Özkan, Serkan Günal, and Ömer Nezih Gerek. 
+#   "SWCD: a sliding window and self-regulated learning-based background updating method for change detection in videos." 
+#   Journal of Electronic Imaging 27, no. 2 (2018): 023002.
+#========================================================================================================================
+
 
 clear
 clc
