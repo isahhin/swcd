@@ -12,9 +12,9 @@ Youtube Videos: https://www.youtube.com/watch?v=jzbJvmIz4s4&list=PLssZYO66PkYGYp
 
 
 ## Code
-Matlab Code: https://github.com/isahhin/swcd/blob/master/SWCDMatlab.zip.
+Matlab Code: https://github.com/isahhin/swcd/tree/master/SWCDMatlab.
 
-Python Code: https://github.com/isahhin/swcd/blob/master/SWCDPython.zip.
+Python Code: https://github.com/isahhin/swcd/tree/master/SWCDPython.
 
 ## Results
 
