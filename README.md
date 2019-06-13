@@ -31,4 +31,4 @@ https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume
 
 ## Contact
 
-* **Şahin Işık** - *Corresponding Author* - [Şahin Işık](http://ceng.ogu.edu.tr/Sayfa/Index/32/bolum-personeli) - *Email* - isahhin@gmail.com
+* **Dr. Şahin Işık** - *Corresponding Author* - [Dr. Şahin Işık](http://ceng.ogu.edu.tr/Sayfa/Index/32/bolum-personeli) - *Email* - isahhin@gmail.com
